@@ -1,0 +1,41 @@
+.container{
+  background-color: #FFE4C4;
+  width: 300px;
+  border: 9px solid #FFF8DC;
+  padding: .2em;
+  display: flex;
+flex-wrap: wrap;
+}
+h3{
+font-family: cursive;
+font-size: 20px;
+}
+.box{
+  width: 280px;
+  border: 5px solid #FFF8DC ;
+  padding: 1em;
+  margin: .5em;
+
+}
+
+.text{
+  font-style: italic;
+}
+
+
+.list{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-family: cursive;
+}
+span {
+  font-weight: bold;
+}
+.image{
+  margin: 2px;
+  width: 300px;
+}
+p{
+  font-family: cursive;
+}
